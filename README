@@ -1,0 +1,7 @@
+wShortener
+
+==========
+
+An url-shortening service, using the Sinatra framework.
+The initial idea was to make it as small as possible.
+
